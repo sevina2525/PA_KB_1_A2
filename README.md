@@ -37,7 +37,10 @@ Pada data preprocessing, kami menggunakan brightness untuk membuat beberapa foto
 
 -------------------------------------------------------------------------------------------
 ### Penjelasan Visualisasi Data
-Pada visualisasi data, kami membedakan output hijab dan non hijab dengan label.
+Pada visualisasi data, kami membedakan output hijab dan non hijab dengan label. Setelah itu, kami visualisasikan dengan grafik batang
+<p align="center">
+  <img src="https://github.com/sevina2525/PA_KB_1_A2/blob/main/image%20model/jumlah%20data%20pada%20path.png"/>
+</p>
 
 -------------------------------------------------------------------------------------------
 ### Penjelasan Data Modelling
@@ -46,3 +49,6 @@ Pada bagian data modelling, kami membagi menjadi 3 layer dan mengimplementasikan
 -------------------------------------------------------------------------------------------
 ### Penjelasan Evaluasi
 Pada hasil evaluasi, kami mendapatkan loss = 0.12481957674026489 dan accuracy = 0.9760000109672546. Kami mencoba test model dengan real foto dan berhasil menghasilkan output yang sesuai. Selain itu, untuk membandingkan prediksi yang benar dan prediksi yag salah, kami mengaplikasikannya pada grafik heatmap.
+<p align="center">
+  <img src="https://github.com/sevina2525/PA_KB_1_A2/blob/main/image%20model/confussion%20matrix.png"/>
+</p>
