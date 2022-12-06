@@ -2,7 +2,7 @@
 ## DETEKSI HIJAB DAN NON HIJAB👧🧕🏻
 
 ### Nama Anggota Kelompok :
-1. Erman Parni Simanjuntak (2009106044)
+1. Erman Parni Simanjuntak (2009106046)
 2. Sevina Afi Amalia (2009106042)
 3. Cantika Fitri Ayu Darmayanti (2009106045)
 
